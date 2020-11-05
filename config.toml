@@ -19,6 +19,8 @@ pygmentsCodefences = true
 
 enableEmoji = true
 
+enableGitInfo = true
+
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
@@ -34,8 +36,8 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
-startYear = "2017"
+holder = "Luan Pham"
+startYear = "2020"
 suffix = ""
 
 [params.settings]
@@ -73,17 +75,8 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
-email = "contact@example.com"
-facebook = "MunifTanjim"
-github = "MunifTanjim"
-gitlab = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
-telegram = "MunifTanjim"
-google_scholar = "qc6CJjYAAAAJ"
-youtube = "UCT-U0rNerYxItGcuoPX-WYA"
+email = "luan.pham0586@gmail.com"
+github = "thanhluan001"
 
 [params.comments]
 enable = false
@@ -134,6 +127,13 @@ page = "/:slug/"
 #weight = -10
 #identifier = "repository"
 #url = "https://github.com/MunifTanjim/minimo"
+
+#[[menu.main]]
+#name = "Blogs"
+#title = "All Blog Posts"
+#weight = -250
+#identifier = "posts"
+#url = "/posts/"
 
 [blackfriday]
 hrefTargetBlank = true

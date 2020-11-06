@@ -4,33 +4,106 @@
   
   <url>
     <loc>http://www.example.com/</loc>
-    <lastmod>2020-10-31T22:18:43+01:00</lastmod>
+    <lastmod>2020-11-04T01:14:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/my-first-post/</loc>
-    <lastmod>2020-10-31T22:18:43+01:00</lastmod>
+    <loc>http://www.example.com/posts/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/</loc>
-    <lastmod>2020-10-31T22:18:43+01:00</lastmod>
+    <loc>http://www.example.com/typography/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>http://www.example.com/about/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.example.com/categories/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>http://www.example.com/tags/cuda/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/deep-learning/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/posts/install-cuda-11-in-ubuntu/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/installation/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/authors/luanpham/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.example.com/tags/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/categories/tutorial/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/helloworld/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/posts/my-first-post/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/authors/muniftanjim/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/page/</loc>
+    <lastmod>2020-11-05T15:21:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/authors/</loc>
+    <lastmod>2020-11-04T01:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/config/</loc>
+    <lastmod>2020-11-04T01:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/og/</loc>
+    <lastmod>2020-11-04T01:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/search/</loc>
+    <lastmod>2020-11-04T01:14:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/series/</loc>
   </url>
   
 </urlset>

@@ -3,7 +3,9 @@ date: 2017-09-28T08:00:00+06:00
 title: Typography
 authors: ["muniftanjim"]
 slug: typography
-menu: "main"
+menu: 
+  main:
+    parent: posts
 weight: -230
 ---
 Here is a paragraph. **Lorem ipsum _dolor_ sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

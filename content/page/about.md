@@ -1,6 +1,6 @@
 ---
 title: About
-description: Who is this blog about?
+description: What's this blog about?
 menu: main
 weight: -210
 ---

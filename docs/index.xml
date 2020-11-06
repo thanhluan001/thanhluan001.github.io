@@ -1,18 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Le Metro</title>
+    <title>Home on Le Metro</title>
     <link>http://www.example.com/</link>
-    <description>Recent content on Le Metro</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 31 Oct 2020 22:18:43 +0100</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Home on Le Metro</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typography</title>
+      <link>http://www.example.com/typography/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/typography/</guid>
+      <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>I am just a programmer who have learnt too many things over the years. This blog is for me to keep track of them :). If you find anything useful, please share.</description>
+    </item>
+    
+    <item>
+      <title>Install Cuda 11 in Ubuntu</title>
+      <link>http://www.example.com/posts/install-cuda-11-in-ubuntu/</link>
+      <pubDate>Thu, 05 Nov 2020 00:49:14 +0100</pubDate>
+      
+      <guid>http://www.example.com/posts/install-cuda-11-in-ubuntu/</guid>
+      <description>Courtesy of this link for the information. This other link is an older answer.
+To remove most all trace of cuda installations in your system
+sudo rm /etc/apt/sources.list.d/cuda* sudo apt remove --autoremove nvidia-cuda-toolkit sudo apt remove --autoremove nvidia-* Get the reposistory
+sudo add-apt-repository ppa:graphics-drivers sudo apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/7fa2af80.pub sudo bash -c &amp;#39;echo &amp;#34;deb http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64 /&amp;#34; &amp;gt; /etc/apt/sources.list.d/cuda.list&amp;#39; sudo bash -c &amp;#39;echo &amp;#34;deb http://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu1804/x86_64 /&amp;#34; &amp;gt; /etc/apt/sources.list.d/cuda_learn.list&amp;#39; Install Cuda, no need to install libcudnn (unsure why, can be that the libcudnn is included in new .</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
-      <link>http://www.example.com/post/my-first-post/</link>
+      <link>http://www.example.com/posts/my-first-post/</link>
       <pubDate>Sat, 31 Oct 2020 22:18:43 +0100</pubDate>
       
-      <guid>http://www.example.com/post/my-first-post/</guid>
-      <description>What type of typing is this?</description>
+      <guid>http://www.example.com/posts/my-first-post/</guid>
+      <description>A Hello World example here is appropriate :)
+print(&amp;#39;Hello World&amp;#39;); </description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://www.example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/search/</guid>
+      <description></description>
     </item>
     
   </channel>

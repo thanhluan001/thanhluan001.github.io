@@ -4,6 +4,61 @@
     <title>Tags on Le Metro</title>
     <link>http://www.example.com/tags/</link>
     <description>Recent content in Tags on Le Metro</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Nov 2020 00:49:14 +0100</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuda</title>
+      <link>http://www.example.com/tags/cuda/</link>
+      <pubDate>Thu, 05 Nov 2020 00:49:14 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/cuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://www.example.com/tags/deep-learning/</link>
+      <pubDate>Thu, 05 Nov 2020 00:49:14 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>http://www.example.com/tags/installation/</link>
+      <pubDate>Thu, 05 Nov 2020 00:49:14 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>helloworld</title>
+      <link>http://www.example.com/tags/helloworld/</link>
+      <pubDate>Sat, 31 Oct 2020 22:18:43 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/helloworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>http://www.example.com/tags/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opengraph</title>
+      <link>http://www.example.com/tags/og/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/og/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

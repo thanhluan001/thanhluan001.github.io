@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Le Metro</title>
+    <link>http://www.example.com/categories/tutorial/</link>
+    <description>Recent content in Tutorial on Le Metro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Nov 2020 00:49:14 +0100</lastBuildDate><atom:link href="http://www.example.com/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Cuda 11 in Ubuntu</title>
+      <link>http://www.example.com/posts/install-cuda-11-in-ubuntu/</link>
+      <pubDate>Thu, 05 Nov 2020 00:49:14 +0100</pubDate>
+      
+      <guid>http://www.example.com/posts/install-cuda-11-in-ubuntu/</guid>
+      <description>Courtesy of this link for the information. This other link is an older answer.
+To remove most all trace of cuda installations in your system
+sudo rm /etc/apt/sources.list.d/cuda* sudo apt remove --autoremove nvidia-cuda-toolkit sudo apt remove --autoremove nvidia-* Get the reposistory
+sudo add-apt-repository ppa:graphics-drivers sudo apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/7fa2af80.pub sudo bash -c &amp;#39;echo &amp;#34;deb http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64 /&amp;#34; &amp;gt; /etc/apt/sources.list.d/cuda.list&amp;#39; sudo bash -c &amp;#39;echo &amp;#34;deb http://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu1804/x86_64 /&amp;#34; &amp;gt; /etc/apt/sources.list.d/cuda_learn.list&amp;#39; Install Cuda, no need to install libcudnn (unsure why, can be that the libcudnn is included in new .</description>
+    </item>
+    
+  </channel>
+</rss>

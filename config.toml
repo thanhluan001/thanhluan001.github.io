@@ -20,13 +20,14 @@ pygmentsCodefences = true
 enableEmoji = true
 
 enableGitInfo = true
+linenos = true
 
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
 [params.info]
 description = "A peek into a wandering mind :)"
-title404 = "Nothing's here!"
+title404 = "Not Found!"
 
 [params.assets]
 favicon = "favicon.ico"

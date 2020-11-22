@@ -5,11 +5,11 @@
     <link>http://www.example.com/categories/</link>
     <description>Recent content in Categories on Le Metro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Nov 2020 00:49:14 +0100</lastBuildDate><atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 23:18:50 +0100</lastBuildDate><atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial</title>
       <link>http://www.example.com/categories/tutorial/</link>
-      <pubDate>Thu, 05 Nov 2020 00:49:14 +0100</pubDate>
+      <pubDate>Thu, 05 Nov 2020 23:18:50 +0100</pubDate>
       
       <guid>http://www.example.com/categories/tutorial/</guid>
       <description></description>

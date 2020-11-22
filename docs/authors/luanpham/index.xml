@@ -5,7 +5,29 @@
     <link>http://www.example.com/authors/luanpham/</link>
     <description>Recent content in luanpham on Le Metro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Nov 2020 00:49:14 +0100</lastBuildDate><atom:link href="http://www.example.com/authors/luanpham/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 23:18:50 +0100</lastBuildDate><atom:link href="http://www.example.com/authors/luanpham/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ToDo</title>
+      <link>http://www.example.com/todo/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/todo/</guid>
+      <description>Plan of things to come :)
+ Chatbot with Rasa. Explanation of using Transformer in chatbot Times series with Phophet :) NLP tutorial part 2 (with CNN and RNN) NLP tutorial part 1 (here)  </description>
+    </item>
+    
+    <item>
+      <title>Nlp Learning with tutorial and code (part 1)</title>
+      <link>http://www.example.com/posts/nlp-learning/</link>
+      <pubDate>Thu, 05 Nov 2020 23:18:50 +0100</pubDate>
+      
+      <guid>http://www.example.com/posts/nlp-learning/</guid>
+      <description>We follow a NLP tutorial with code today (this link)
+Getting Data We&amp;rsquo;re using &amp;ldquo;Disasters in Social Media&amp;rdquo; dataset which consists of tweet archive where
+ Over 10,000 tweets culled with a variety of searches like “ablaze”, “quarantine”, and “pandemonium”, then noted whether the tweet referred to a disaster event (as opposed to a joke with the word or a movie review or something non-disastrous).
+ The objective is to distinguish between tweets that signal disasters and &amp;ldquo;irrelevant&amp;rdquo; tweets.</description>
+    </item>
+    
     <item>
       <title>Install Cuda 11 in Ubuntu</title>
       <link>http://www.example.com/posts/install-cuda-11-in-ubuntu/</link>

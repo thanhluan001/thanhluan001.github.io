@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate><atom:link href="http://www.example.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ToDo</title>
+      <link>http://www.example.com/todo/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/todo/</guid>
+      <description>Plan of things to come :)
+ Chatbot with Rasa. Explanation of using Transformer in chatbot Times series with Phophet :) NLP tutorial part 2 (with CNN and RNN) NLP tutorial part 1 (here)  </description>
+    </item>
+    
+    <item>
       <title>Typography</title>
       <link>http://www.example.com/typography/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>

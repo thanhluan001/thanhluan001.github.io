@@ -40,7 +40,7 @@ sudo apt install cuda
 
 As of this writing, it is Cuda 11.1. You can specify the version number like `cuda-10-1` for Cuda 10.1. Check the [repo](http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/) for update-to-date packages
 
-Check for you installation for pytorch
+Check your installation of cuda by using pytorch
 
 ```python
 import torch

@@ -55,14 +55,10 @@
   <nav id='sidebar-menu' class='menu sidebar-menu' aria-label='Sidebar Menu'>
     <div class='container'>
       <ul><li class='item'>
-  <a href='/'>Home</a></li><li class='item has-children'>
-  <a href='/posts/'>Blogs</a><button class='sub-menu-toggler'>
-    <span class='screen-reader-text'>expand sub menu</span>
-    <span class='sign'></span>
-  </button>
-
-  <ul class='sub-menu'><li class='item'>
-  <a href='/typography/'>Typography</a></li></ul></li><li class='item'>
+  <a href='/'>Home</a></li><li class='item'>
+  <a href='/posts/'>Blogs</a></li><li class='item'>
+  <a href='/todo/'>ToDo</a></li><li class='item'>
+  <a href='/typography/'>Typography</a></li><li class='item'>
   <a href='/about/'>About</a></li></ul>
     </div>
   </nav>
@@ -88,11 +84,15 @@
   <ul class='list taxonomy-cloud'><li>
         <a href='/tags/cuda/' style='font-size:1em'>Cuda</a>
       </li><li>
-        <a href='/tags/deep-learning/' style='font-size:1em'>Deep Learning</a>
+        <a href='/tags/deep-learning/' style='font-size:2em'>Deep Learning</a>
       </li><li>
         <a href='/tags/helloworld/' style='font-size:1em'>helloworld</a>
       </li><li>
         <a href='/tags/installation/' style='font-size:1em'>Installation</a>
+      </li><li>
+        <a href='/tags/machine-learning/' style='font-size:1em'>Machine Learning</a>
+      </li><li>
+        <a href='/tags/nlp/' style='font-size:1em'>NLP</a>
       </li></ul>
 </div>
 
@@ -211,7 +211,7 @@ sudo bash -c <span style="color:#e6db74">&#39;echo &#34;deb http://developer.dow
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo apt update
 sudo apt install cuda
 </code></pre></div><p>As of this writing, it is Cuda 11.1. You can specify the version number like <code>cuda-10-1</code> for Cuda 10.1. Check the <a href="http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/">repo</a> for update-to-date packages</p>
-<p>Check for you installation for pytorch</p>
+<p>Check your installation of cuda by using pytorch</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> torch
 torch<span style="color:#f92672">.</span>cuda<span style="color:#f92672">.</span>is_available()
 True
@@ -263,6 +263,17 @@ True
 </svg>
  Previous</span>
         <span class='screen-reader-text'>Previous post: </span>My First Post</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/posts/nlp-learning/'>
+        <span class='screen-reader-text'>Next post: </span>Nlp Learning with tutorial and code (part 1)<span aria-hidden='true'>Next <svg class='icon' xmlns='http://www.w3.org/2000/svg' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+
+</svg>
+</span>
+      </a>
     </div></div>
 </nav>
 

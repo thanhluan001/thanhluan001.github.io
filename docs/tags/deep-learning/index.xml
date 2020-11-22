@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on Le Metro</title>
-    <link>http://www.example.com/tags/deep-learning/</link>
+    <link>https://thanhluan001.github.io/tags/deep-learning/</link>
     <description>Recent content in Deep Learning on Le Metro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Nov 2020 23:18:50 +0100</lastBuildDate><atom:link href="http://www.example.com/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 23:18:50 +0100</lastBuildDate><atom:link href="https://thanhluan001.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nlp Learning with tutorial and code (part 1)</title>
-      <link>http://www.example.com/posts/nlp-learning/</link>
+      <link>https://thanhluan001.github.io/posts/nlp-learning/</link>
       <pubDate>Thu, 05 Nov 2020 23:18:50 +0100</pubDate>
       
-      <guid>http://www.example.com/posts/nlp-learning/</guid>
+      <guid>https://thanhluan001.github.io/posts/nlp-learning/</guid>
       <description>We follow a NLP tutorial with code today (this link)
 Getting Data We&amp;rsquo;re using &amp;ldquo;Disasters in Social Media&amp;rdquo; dataset which consists of tweet archive where
  Over 10,000 tweets culled with a variety of searches like “ablaze”, “quarantine”, and “pandemonium”, then noted whether the tweet referred to a disaster event (as opposed to a joke with the word or a movie review or something non-disastrous).
@@ -20,10 +20,10 @@ Getting Data We&amp;rsquo;re using &amp;ldquo;Disasters in Social Media&amp;rdqu
     
     <item>
       <title>Install Cuda 11 in Ubuntu</title>
-      <link>http://www.example.com/posts/install-cuda-11-in-ubuntu/</link>
+      <link>https://thanhluan001.github.io/posts/install-cuda-11-in-ubuntu/</link>
       <pubDate>Thu, 05 Nov 2020 00:49:14 +0100</pubDate>
       
-      <guid>http://www.example.com/posts/install-cuda-11-in-ubuntu/</guid>
+      <guid>https://thanhluan001.github.io/posts/install-cuda-11-in-ubuntu/</guid>
       <description>Courtesy of this link for the information. This other link is an older answer.
 To remove most all trace of cuda installations in your system
 sudo rm /etc/apt/sources.list.d/cuda* sudo apt remove --autoremove nvidia-cuda-toolkit sudo apt remove --autoremove nvidia-* Get the reposistory

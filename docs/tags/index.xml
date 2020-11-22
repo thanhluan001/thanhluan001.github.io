@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Le Metro</title>
-    <link>http://www.example.com/tags/</link>
+    <link>https://thanhluan001.github.io/tags/</link>
     <description>Recent content in Tags on Le Metro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Nov 2020 23:18:50 +0100</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 23:18:50 +0100</lastBuildDate><atom:link href="https://thanhluan001.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Learning</title>
-      <link>http://www.example.com/tags/deep-learning/</link>
+      <link>https://thanhluan001.github.io/tags/deep-learning/</link>
       <pubDate>Thu, 05 Nov 2020 23:18:50 +0100</pubDate>
       
-      <guid>http://www.example.com/tags/deep-learning/</guid>
+      <guid>https://thanhluan001.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>http://www.example.com/tags/machine-learning/</link>
+      <link>https://thanhluan001.github.io/tags/machine-learning/</link>
       <pubDate>Thu, 05 Nov 2020 23:18:50 +0100</pubDate>
       
-      <guid>http://www.example.com/tags/machine-learning/</guid>
+      <guid>https://thanhluan001.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP</title>
-      <link>http://www.example.com/tags/nlp/</link>
+      <link>https://thanhluan001.github.io/tags/nlp/</link>
       <pubDate>Thu, 05 Nov 2020 23:18:50 +0100</pubDate>
       
-      <guid>http://www.example.com/tags/nlp/</guid>
+      <guid>https://thanhluan001.github.io/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cuda</title>
-      <link>http://www.example.com/tags/cuda/</link>
+      <link>https://thanhluan001.github.io/tags/cuda/</link>
       <pubDate>Thu, 05 Nov 2020 00:49:14 +0100</pubDate>
       
-      <guid>http://www.example.com/tags/cuda/</guid>
+      <guid>https://thanhluan001.github.io/tags/cuda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Installation</title>
-      <link>http://www.example.com/tags/installation/</link>
+      <link>https://thanhluan001.github.io/tags/installation/</link>
       <pubDate>Thu, 05 Nov 2020 00:49:14 +0100</pubDate>
       
-      <guid>http://www.example.com/tags/installation/</guid>
+      <guid>https://thanhluan001.github.io/tags/installation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>helloworld</title>
-      <link>http://www.example.com/tags/helloworld/</link>
+      <link>https://thanhluan001.github.io/tags/helloworld/</link>
       <pubDate>Sat, 31 Oct 2020 22:18:43 +0100</pubDate>
       
-      <guid>http://www.example.com/tags/helloworld/</guid>
+      <guid>https://thanhluan001.github.io/tags/helloworld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Configuration</title>
-      <link>http://www.example.com/tags/config/</link>
+      <link>https://thanhluan001.github.io/tags/config/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/config/</guid>
+      <guid>https://thanhluan001.github.io/tags/config/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opengraph</title>
-      <link>http://www.example.com/tags/og/</link>
+      <link>https://thanhluan001.github.io/tags/og/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/og/</guid>
+      <guid>https://thanhluan001.github.io/tags/og/</guid>
       <description></description>
     </item>
     

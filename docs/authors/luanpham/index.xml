@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>luanpham on Le Metro</title>
-    <link>http://www.example.com/authors/luanpham/</link>
+    <link>https://thanhluan001.github.io/authors/luanpham/</link>
     <description>Recent content in luanpham on Le Metro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Nov 2020 23:18:50 +0100</lastBuildDate><atom:link href="http://www.example.com/authors/luanpham/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 23:18:50 +0100</lastBuildDate><atom:link href="https://thanhluan001.github.io/authors/luanpham/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ToDo</title>
-      <link>http://www.example.com/todo/</link>
+      <link>https://thanhluan001.github.io/todo/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/todo/</guid>
+      <guid>https://thanhluan001.github.io/todo/</guid>
       <description>Plan of things to come :)
  Chatbot with Rasa. Explanation of using Transformer in chatbot Times series with Phophet :) NLP tutorial part 2 (with CNN and RNN) NLP tutorial part 1 (here)  </description>
     </item>
     
     <item>
       <title>Nlp Learning with tutorial and code (part 1)</title>
-      <link>http://www.example.com/posts/nlp-learning/</link>
+      <link>https://thanhluan001.github.io/posts/nlp-learning/</link>
       <pubDate>Thu, 05 Nov 2020 23:18:50 +0100</pubDate>
       
-      <guid>http://www.example.com/posts/nlp-learning/</guid>
+      <guid>https://thanhluan001.github.io/posts/nlp-learning/</guid>
       <description>We follow a NLP tutorial with code today (this link)
 Getting Data We&amp;rsquo;re using &amp;ldquo;Disasters in Social Media&amp;rdquo; dataset which consists of tweet archive where
  Over 10,000 tweets culled with a variety of searches like “ablaze”, “quarantine”, and “pandemonium”, then noted whether the tweet referred to a disaster event (as opposed to a joke with the word or a movie review or something non-disastrous).
@@ -30,10 +30,10 @@ Getting Data We&amp;rsquo;re using &amp;ldquo;Disasters in Social Media&amp;rdqu
     
     <item>
       <title>Install Cuda 11 in Ubuntu</title>
-      <link>http://www.example.com/posts/install-cuda-11-in-ubuntu/</link>
+      <link>https://thanhluan001.github.io/posts/install-cuda-11-in-ubuntu/</link>
       <pubDate>Thu, 05 Nov 2020 00:49:14 +0100</pubDate>
       
-      <guid>http://www.example.com/posts/install-cuda-11-in-ubuntu/</guid>
+      <guid>https://thanhluan001.github.io/posts/install-cuda-11-in-ubuntu/</guid>
       <description>Courtesy of this link for the information. This other link is an older answer.
 To remove most all trace of cuda installations in your system
 sudo rm /etc/apt/sources.list.d/cuda* sudo apt remove --autoremove nvidia-cuda-toolkit sudo apt remove --autoremove nvidia-* Get the reposistory
@@ -42,10 +42,10 @@ sudo add-apt-repository ppa:graphics-drivers sudo apt-key adv --fetch-keys http:
     
     <item>
       <title>My First Post</title>
-      <link>http://www.example.com/posts/my-first-post/</link>
+      <link>https://thanhluan001.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 31 Oct 2020 22:18:43 +0100</pubDate>
       
-      <guid>http://www.example.com/posts/my-first-post/</guid>
+      <guid>https://thanhluan001.github.io/posts/my-first-post/</guid>
       <description>A Hello World example here is appropriate :)
 print(&amp;#39;Hello World&amp;#39;); </description>
     </item>

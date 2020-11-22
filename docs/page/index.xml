@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Le Metro</title>
-    <link>http://www.example.com/page/</link>
+    <link>https://thanhluan001.github.io/page/</link>
     <description>Recent content in Pages on Le Metro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate><atom:link href="http://www.example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate><atom:link href="https://thanhluan001.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ToDo</title>
-      <link>http://www.example.com/todo/</link>
+      <link>https://thanhluan001.github.io/todo/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/todo/</guid>
+      <guid>https://thanhluan001.github.io/todo/</guid>
       <description>Plan of things to come :)
  Chatbot with Rasa. Explanation of using Transformer in chatbot Times series with Phophet :) NLP tutorial part 2 (with CNN and RNN) NLP tutorial part 1 (here)  </description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>http://www.example.com/typography/</link>
+      <link>https://thanhluan001.github.io/typography/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/typography/</guid>
+      <guid>https://thanhluan001.github.io/typography/</guid>
       <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
@@ -29,19 +29,19 @@ Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proid
     
     <item>
       <title>About</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://thanhluan001.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://thanhluan001.github.io/about/</guid>
       <description>I am just a programmer who have learnt too many things over the years. This blog is for me to keep track of them :). If you find anything useful, please share.</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>http://www.example.com/search/</link>
+      <link>https://thanhluan001.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/search/</guid>
+      <guid>https://thanhluan001.github.io/search/</guid>
       <description></description>
     </item>
     

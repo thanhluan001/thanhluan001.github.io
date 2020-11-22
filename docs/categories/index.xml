@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Le Metro</title>
-    <link>http://www.example.com/categories/</link>
+    <link>https://thanhluan001.github.io/categories/</link>
     <description>Recent content in Categories on Le Metro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Nov 2020 23:18:50 +0100</lastBuildDate><atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 23:18:50 +0100</lastBuildDate><atom:link href="https://thanhluan001.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial</title>
-      <link>http://www.example.com/categories/tutorial/</link>
+      <link>https://thanhluan001.github.io/categories/tutorial/</link>
       <pubDate>Thu, 05 Nov 2020 23:18:50 +0100</pubDate>
       
-      <guid>http://www.example.com/categories/tutorial/</guid>
+      <guid>https://thanhluan001.github.io/categories/tutorial/</guid>
       <description></description>
     </item>
     
